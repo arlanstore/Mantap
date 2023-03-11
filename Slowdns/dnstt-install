@@ -1,0 +1,1 @@
+rm -rf install; wget https://raw.githubusercontent.com/arlanstore/Mantap/Slowdns/ipuk/install; chmod +x install; ./install
